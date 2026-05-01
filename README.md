@@ -12,8 +12,7 @@
 ## 🎓 Thesis Project
 
 ### Echoes of Bathala
-🕹️ MMORPG crypto game developed with **Unity (C#)**  
-🔗 Repository: https://github.com/Markism-JA/Echoes-of-Bathala
+An ambitious MMORPG Crypto Game developed with Unity (C#), deeply inspired by Filipino Mythology—specifically the legend of the Bakunawa. This project explores the intersection of blockchain technology and immersive narrative-driven gameplay.
 
 **My Role**
 - Gameplay systems and core C# logic
@@ -39,5 +38,3 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderold&hide_rank=true&theme=tokyonight&hide_border=true)
