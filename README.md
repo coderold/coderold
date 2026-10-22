@@ -1,6 +1,6 @@
 # Hi, I'm Matthew 👋
 
-🎓 3rd Year **Computer Science Student** at **STI College**  
+🎓 4th Year **Computer Science Student** at **STI College**  
 💻 Interested in logic-heavy systems, mobile app development, games, and backend work
 
 ## 🚀 About Me
